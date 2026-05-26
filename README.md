@@ -5,17 +5,17 @@
 ## 
 ## 📫 How to reach me: [YamanlarNet](https://yamanlar.tr)
 ##
+
+```node start dev```
+
 <!--
-**osmandincer/osmandincer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Örnek bir başlık altında gif animasyonu için](./resources/icerk_gorseli.gif)
+Bu şekilde doğrudan başlığa bağlı görsel oluyor. Başta ! ünlem var.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Komut örnekleri: 
+```node start dev```
+şeklnde yazılıyor
+
+
 -->
