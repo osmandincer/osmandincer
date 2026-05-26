@@ -2,7 +2,7 @@
 ## Hi there👋 Welcome to a secret place of coding..
 ## 🔭 I’m currently working on [OkutSat](https://www.okutsat.com.tr) - The first all-in-one online Point of Sale system..
 #
-## 🌱 I’m currently seeding a flower which will be the best Technical Management system for repairing companites - Tekknic.com..
+## 🌱 I am currently launching a project that will serve as the best Technical Service Management system for companies providing electronics and similar repair services: [Tekknic.com](https://tekknic.com).
 #
 ## 📫 How to reach me: [YamanlarNet](https://yamanlar.tr)
 #
