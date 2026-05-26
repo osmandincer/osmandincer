@@ -1,9 +1,9 @@
 ## Hi there👋 Welcome to a secret place of coding..
-## 🔭 I’m currently working on OkutSat - The first all-in-one online Point of Sale system..
+## 🔭 I’m currently working on [OkutSat](https://www.okutsat.com.tr) - The first all-in-one online Point of Sale system..
 ## 
 ## 🌱 I’m currently seeding a flower which will be the best Technical Management system for repairing companites - Tekknic.com..
 ## 
-## 📫 How to reach me: <a href="https://www.yamanlar.net">YamanlarNet</a>
+## 📫 How to reach me: [YamanlarNet](https://yamanlar.tr)
 ##
 <!--
 **osmandincer/osmandincer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
